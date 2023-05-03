@@ -58,3 +58,9 @@ The objective of this test task is to evaluate your ability to design and implem
 4. Include a link to your repository in your job application.
 
 Good luck!
+
+## How to run the API
+1. Clone this repository.
+2. run npm install.
+3. npm run dev.
+4. It is running on http://localhost:3000
